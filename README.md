@@ -1,9 +1,9 @@
-# Student Record Management System
+# Contact Management System
 
-A simple web-based mini project for managing student records. Built with Python Flask and SQLite.
+A simple web-based mini project for managing contacts. Built with Python Flask and SQLite.
 
 ## Features
-- Add, view, edit, and delete student records
+- Add, view, edit, and delete contacts
 - Simple, beautiful web interface
 - Easy to run: no setup required except Python
 
@@ -22,6 +22,6 @@ A simple web-based mini project for managing student records. Built with Python 
 - `app.py` — Main Flask application
 - `templates/` — HTML files for views
 - `static/style.css` — CSS styling
-- `students.db` — SQLite database (auto-created)
+- `contacts.db` — SQLite database (auto-created)
 
 ## For any queries, contact: ssinchu507-dot
